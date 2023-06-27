@@ -1,6 +1,6 @@
 # Hi! My name is Adrian Santos;
  
- - Primeiro semestre ADS (Análise e desenvolvimento de sistemas)
+ - Segundo semestre ADS (Análise e desenvolvimento de sistemas)
 
  - Conhecimentos em Hardware
  - Edições de vídeos e imagens
